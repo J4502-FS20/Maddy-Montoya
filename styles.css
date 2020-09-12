@@ -1,13 +1,12 @@
 body {
-    background-color: #BDCED2;
+    background-color: #B9C6CA;
     text-align: center;
     margin: auto;
 }
 
 ul {
     list-style-type: none;
-    text-align: center
-    margin: auto;
+    text-align: center;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -16,7 +15,7 @@ ul {
 }
 
 #nav {
-  background-color: #5F8088;
+  background-color: #8FACB3;
   padding left: 20px;
   padding top: 15px;
   padding bottom: 15px;
@@ -25,7 +24,7 @@ ul {
 }
 
 #contact {
-  background-color: #5F8088;
+  background-color: #739BA4;
   padding left: 20px;
   padding top: 15px;
   padding bottom: 15px;
@@ -67,12 +66,12 @@ a {
   text-decoration: none;
   font-weight: bold;
   text-transform: none;
-  color: #244750;
+  color: #153A43;
 }
 
 a:hover {
     font-weight: bold;
-    background-color: #97A5A9;
-    color: #244750;
+    background-color: #B9C6CA;
+    color: #153A43;
     opacity: 0.7;
 }
